@@ -1,0 +1,253 @@
+The system is: Windows - 10.0.22621 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+生成启动时间为 2023/4/24 18:07:15。
+Included response file: D:\Download\software\VisualStudio\MSBuild\Current\Bin\amd64\MSBuild.rsp
+
+节点 1 上的项目“D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\3.25.1-msvc1\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdC.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdC.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Download\software\VisualStudio\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  D:\Download\software\VisualStudio\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\3.25.1-msvc1\CompilerIdC\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=D:\Download\software\VisualStudio\VC\Tools\MSVC\14.35.32215\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdC.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\3.25.1-msvc1\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.96
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/3.25.1-msvc1/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+生成启动时间为 2023/4/24 18:07:16。
+Included response file: D:\Download\software\VisualStudio\MSBuild\Current\Bin\amd64\MSBuild.rsp
+
+节点 1 上的项目“D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\3.25.1-msvc1\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdCXX.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Download\software\VisualStudio\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  D:\Download\software\VisualStudio\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\3.25.1-msvc1\CompilerIdCXX\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=D:\Download\software\VisualStudio\VC\Tools\MSVC\14.35.32215\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdCXX.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\3.25.1-msvc1\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.59
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/3.25.1-msvc1/CompilerIdCXX/CompilerIdCXX.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-l7fzw7
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_887bc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CMakeCCompilerABI.c
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_887bc.dir\Debug\\" /Fd"cmTC_887bc.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\Download\software\VisualStudio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.25\Modules\CMakeCCompilerABI.c"
+  cmTC_887bc.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-l7fzw7\Debug\cmTC_887bc.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-0p7dfl
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8a321.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  CMakeCXXCompilerABI.cpp
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8a321.dir\Debug\\" /Fd"cmTC_8a321.dir\Debug\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\Download\software\VisualStudio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.25\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_8a321.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-0p7dfl\Debug\cmTC_8a321.exe
+
+
+
+Determining if the include file windows.h exists passed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-u9b2ai
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_90c64.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_90c64.dir\Debug\\" /Fd"cmTC_90c64.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-u9b2ai\CheckIncludeFile.c"
+  cmTC_90c64.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-u9b2ai\Debug\cmTC_90c64.exe
+
+
+
+Performing C++ SOURCE FILE Test HAVE_VISUAL_STUDIO_ARCH_AVX succeeded with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-8jy3ia
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_c4658.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_VISUAL_STUDIO_ARCH_AVX /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /arch:AVX /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_c4658.dir\Debug\\" /Fd"cmTC_c4658.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-8jy3ia\src.cxx"
+  cmTC_c4658.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-8jy3ia\Debug\cmTC_c4658.exe
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test HAVE_VISUAL_STUDIO_ARCH_AVX2 succeeded with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-h8po2z
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_83468.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  src.cxx
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_VISUAL_STUDIO_ARCH_AVX2 /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /arch:AVX2 /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_83468.dir\Debug\\" /Fd"cmTC_83468.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-h8po2z\src.cxx"
+  cmTC_83468.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-h8po2z\Debug\cmTC_83468.exe
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test SNAPPY_HAVE_SSSE3 succeeded with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-cg00zd
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_ef074.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D SNAPPY_HAVE_SSSE3 /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_ef074.dir\Debug\\" /Fd"cmTC_ef074.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-cg00zd\src.cxx"
+  cmTC_ef074.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-cg00zd\Debug\cmTC_ef074.exe
+
+
+Source file was:
+
+#include <tmmintrin.h>
+
+int main() {
+  const __m128i *src = 0;
+  __m128i dest;
+  const __m128i shuffle_mask = _mm_load_si128(src);
+  const __m128i pattern = _mm_shuffle_epi8(_mm_loadl_epi64(src), shuffle_mask);
+  _mm_storeu_si128(&dest, pattern);
+  return 0;
+}
+
+Performing C++ SOURCE FILE Test SNAPPY_HAVE_X86_CRC32 succeeded with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-uv8hn5
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_1894b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D SNAPPY_HAVE_X86_CRC32 /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_1894b.dir\Debug\\" /Fd"cmTC_1894b.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-uv8hn5\src.cxx"
+  cmTC_1894b.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-uv8hn5\Debug\cmTC_1894b.exe
+
+
+Source file was:
+
+#include <immintrin.h>
+int main() {
+  return _mm_crc32_u32(0, 1);
+}
+
+Performing C++ SOURCE FILE Test SNAPPY_HAVE_BMI2 succeeded with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-c1vuzq
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_10ec9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  src.cxx
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D SNAPPY_HAVE_BMI2 /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_10ec9.dir\Debug\\" /Fd"cmTC_10ec9.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-c1vuzq\src.cxx"
+  cmTC_10ec9.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-c1vuzq\Debug\cmTC_10ec9.exe
+
+
+Source file was:
+
+#include <immintrin.h>
+int main() {
+  return _bzhi_u32(0, 1);
+}
+
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_EHS_ succeeded with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-37u8sw
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_9e762.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  src.cxx
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_CXX_FLAG_EHS_ /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_9e762.dir\Debug\\" /Fd"cmTC_9e762.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- -EHs- -EHs- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-37u8sw\src.cxx"
+  cmTC_9e762.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-37u8sw\Debug\cmTC_9e762.exe
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_EHA_ succeeded with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-0k0fds
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_0f3c3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_CXX_FLAG_EHA_ /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_0f3c3.dir\Debug\\" /Fd"cmTC_0f3c3.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- -EHs- -EHa- -EHa- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-0k0fds\src.cxx"
+  cmTC_0f3c3.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-0k0fds\Debug\cmTC_0f3c3.exe
+
+
+Source file was:
+int main() { return 0; }
+

@@ -1,0 +1,411 @@
+Determining if the include file sys/mman.h exists failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-kaegxi
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_ad46f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CheckIncludeFile.c
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-kaegxi\CheckIncludeFile.c(1,10): fatal  error C1083: 无法打开包括文件: “sys/mman.h”: No such file or directory [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-kaegxi\cmTC_ad46f.vcxproj]
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ad46f.dir\Debug\\" /Fd"cmTC_ad46f.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-kaegxi\CheckIncludeFile.c"
+
+
+
+Determining if the include file sys/resource.h exists failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-h56whs
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_7df7f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  CheckIncludeFile.c
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-h56whs\CheckIncludeFile.c(1,10): fatal  error C1083: 无法打开包括文件: “sys/resource.h”: No such file or directory [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-h56whs\cmTC_7df7f.vcxproj]
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7df7f.dir\Debug\\" /Fd"cmTC_7df7f.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-h56whs\CheckIncludeFile.c"
+
+
+
+Determining if the include file sys/time.h exists failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-q1urx1
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b1b4e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CheckIncludeFile.c
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-q1urx1\CheckIncludeFile.c(1,10): fatal  error C1083: 无法打开包括文件: “sys/time.h”: No such file or directory [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-q1urx1\cmTC_b1b4e.vcxproj]
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b1b4e.dir\Debug\\" /Fd"cmTC_b1b4e.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-q1urx1\CheckIncludeFile.c"
+
+
+
+Determining if the include file sys/uio.h exists failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-7yv0z9
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8b0ba.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CheckIncludeFile.c
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-7yv0z9\CheckIncludeFile.c(1,10): fatal  error C1083: 无法打开包括文件: “sys/uio.h”: No such file or directory [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-7yv0z9\cmTC_8b0ba.vcxproj]
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8b0ba.dir\Debug\\" /Fd"cmTC_8b0ba.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-7yv0z9\CheckIncludeFile.c"
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-e84k0i
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_a9160.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a9160.dir\Debug\\" /Fd"cmTC_a9160.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-e84k0i\CheckIncludeFile.c"
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-e84k0i\CheckIncludeFile.c(1,10): fatal  error C1083: 无法打开包括文件: “unistd.h”: No such file or directory [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-e84k0i\cmTC_a9160.vcxproj]
+
+
+
+Determining if the function zlibVersion exists in the z failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-dsh9rk
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_32327.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CheckFunctionExists.c
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=zlibVersion /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_32327.dir\Debug\\" /Fd"cmTC_32327.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-dsh9rk\CheckFunctionExists.c"
+LINK : fatal error LNK1104: 无法打开文件“z.lib” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-dsh9rk\cmTC_32327.vcxproj]
+
+
+
+Determining if the function lzo1x_1_15_compress exists in the lzo2 failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-t276a5
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_af07b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CheckFunctionExists.c
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=lzo1x_1_15_compress /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_af07b.dir\Debug\\" /Fd"cmTC_af07b.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-t276a5\CheckFunctionExists.c"
+LINK : fatal error LNK1104: 无法打开文件“lzo2.lib” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-t276a5\cmTC_af07b.vcxproj]
+
+
+
+Determining if the function LZ4_compress_default exists in the lz4 failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-y5kwt3
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_84312.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=LZ4_compress_default /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_84312.dir\Debug\\" /Fd"cmTC_84312.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-y5kwt3\CheckFunctionExists.c"
+LINK : fatal error LNK1104: 无法打开文件“lz4.lib” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-y5kwt3\cmTC_84312.vcxproj]
+
+
+
+Performing C++ SOURCE FILE Test HAVE_CLANG_MAVX failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-m9w8dj
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b9a8c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  src.cxx
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_CLANG_MAVX /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_b9a8c.dir\Debug\\" /Fd"cmTC_b9a8c.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- -mavx "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-m9w8dj\src.cxx"
+cl : 命令行  warning D9002: 忽略未知选项“-mavx” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-m9w8dj\cmTC_b9a8c.vcxproj]
+  cmTC_b9a8c.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-m9w8dj\Debug\cmTC_b9a8c.exe
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test HAVE_CLANG_MBMI2 failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-7mp6mf
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_cea00.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_CLANG_MBMI2 /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_cea00.dir\Debug\\" /Fd"cmTC_cea00.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- -mbmi2 "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-7mp6mf\src.cxx"
+cl : 命令行  warning D9002: 忽略未知选项“-mbmi2” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-7mp6mf\cmTC_cea00.vcxproj]
+  cmTC_cea00.vcxproj -> D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-7mp6mf\Debug\cmTC_cea00.exe
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test SNAPPY_HAVE_NO_MISSING_FIELD_INITIALIZERS failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-k02nba
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_7549c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D SNAPPY_HAVE_NO_MISSING_FIELD_INITIALIZERS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_7549c.dir\Debug\\" /Fd"cmTC_7549c.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- -Wno-missing-field-initializers "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-k02nba\src.cxx"
+cl : 命令行  error D8021: 无效的数值参数“/Wno-missing-field-initializers” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-k02nba\cmTC_7549c.vcxproj]
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test SNAPPY_HAVE_NO_IMPLICIT_INT_FLOAT_CONVERSION failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-mspi1q
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_2e0d1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D SNAPPY_HAVE_NO_IMPLICIT_INT_FLOAT_CONVERSION /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_2e0d1.dir\Debug\\" /Fd"cmTC_2e0d1.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- -Wno-implicit-int-float-conversion "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-mspi1q\src.cxx"
+cl : 命令行  error D8021: 无效的数值参数“/Wno-implicit-int-float-conversion” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-mspi1q\cmTC_2e0d1.vcxproj]
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test HAVE_BUILTIN_EXPECT failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-naktw3
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_8e031.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_BUILTIN_EXPECT /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_8e031.dir\Debug\\" /Fd"cmTC_8e031.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-naktw3\src.cxx"
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-naktw3\src.cxx(3,10): error C3861: “__builtin_expect”: 找不到标识符 [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-naktw3\cmTC_8e031.vcxproj]
+
+
+Source file was:
+
+int main() {
+  return __builtin_expect(0, 1);
+}
+
+Performing C++ SOURCE FILE Test HAVE_BUILTIN_CTZ failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-ru809k
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b7bcf.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_BUILTIN_CTZ /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_b7bcf.dir\Debug\\" /Fd"cmTC_b7bcf.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-ru809k\src.cxx"
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-ru809k\src.cxx(3,10): error C3861: “__builtin_ctzll”: 找不到标识符 [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-ru809k\cmTC_b7bcf.vcxproj]
+
+
+Source file was:
+
+int main() {
+  return __builtin_ctzll(0);
+}
+
+Performing C++ SOURCE FILE Test HAVE_BUILTIN_PREFETCH failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-xg442l
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_e7cc8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_BUILTIN_PREFETCH /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_e7cc8.dir\Debug\\" /Fd"cmTC_e7cc8.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-xg442l\src.cxx"
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-xg442l\src.cxx(3,3): error C3861: “__builtin_prefetch”: 找不到标识符 [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-xg442l\cmTC_e7cc8.vcxproj]
+
+
+Source file was:
+
+int main() {
+  __builtin_prefetch(0, 0, 3);
+  return 0;
+}
+
+Performing C++ SOURCE FILE Test HAVE_ATTRIBUTE_ALWAYS_INLINE failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-eki8ud
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_71794.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  src.cxx
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D HAVE_ATTRIBUTE_ALWAYS_INLINE /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_71794.dir\Debug\\" /Fd"cmTC_71794.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\src.cxx"
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\src.cxx(2,16): error C2065: “always_inline”: 未声明的标识符 [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\cmTC_71794.vcxproj]
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\src.cxx(2,30): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\cmTC_71794.vcxproj]
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\src.cxx(2,32): error C2062: 意外的类型“int” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\cmTC_71794.vcxproj]
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\src.cxx(2,43): error C2143: 语法错误: 缺少“;”(在“{”的前面) [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\cmTC_71794.vcxproj]
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\src.cxx(2,43): error C2447: “{”: 缺少函数标题(是否是老式的形式表?) [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\cmTC_71794.vcxproj]
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\src.cxx(5,10): error C3861: “zero”: 找不到标识符 [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eki8ud\cmTC_71794.vcxproj]
+
+
+Source file was:
+
+__attribute__((always_inline)) int zero() { return 0; }
+
+int main() {
+  return zero();
+}
+
+Performing C++ SOURCE FILE Test SNAPPY_HAVE_NEON_CRC32 failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-gvl5j4
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_df893.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D SNAPPY_HAVE_NEON_CRC32 /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_df893.dir\Debug\\" /Fd"cmTC_df893.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-gvl5j4\src.cxx"
+D:\Download\software\VisualStudio\VC\Tools\MSVC\14.35.32215\include\arm_neon.h(21,1): fatal  error C1189: #error:  This header is specific to ARM targets [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-gvl5j4\cmTC_df893.vcxproj]
+
+
+Source file was:
+
+#include <arm_neon.h>
+#include <arm_acle.h>
+int main() {
+  return __crc32cw(0, 1);
+}
+
+Performing C++ SOURCE FILE Test SNAPPY_HAVE_NEON failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-el27r6
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_81497.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.cxx
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W4 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D SNAPPY_HAVE_NEON /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR- /Fo"cmTC_81497.dir\Debug\\" /Fd"cmTC_81497.dir\Debug\vc143.pdb" /external:W4 /Gd /TP /errorReport:queue  /EHs-c- "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-el27r6\src.cxx"
+D:\Download\software\VisualStudio\VC\Tools\MSVC\14.35.32215\include\arm_neon.h(21,1): fatal  error C1189: #error:  This header is specific to ARM targets [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-el27r6\cmTC_81497.vcxproj]
+
+
+Source file was:
+
+#include <arm_neon.h>
+int main() {
+  uint8_t val = 3, dup[8];
+  uint8x16_t v = vld1q_dup_u8(&val);
+  vst1q_u8(dup, v);
+  return 0;
+}
+
+Determining if the mmap exist failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-2ho782
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_6c405.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CheckSymbolExists.c
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-2ho782\CheckSymbolExists.c(2,10): fatal  error C1083: 无法打开包括文件: “sys/mman.h”: No such file or directory [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-2ho782\cmTC_6c405.vcxproj]
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6c405.dir\Debug\\" /Fd"cmTC_6c405.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-2ho782\CheckSymbolExists.c"
+
+
+File CheckSymbolExists.c:
+/* */
+#include <sys/mman.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef mmap
+  return ((int*)(&mmap))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the sysconf exist failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-dk37bk
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_b3fdb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CheckSymbolExists.c
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b3fdb.dir\Debug\\" /Fd"cmTC_b3fdb.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-dk37bk\CheckSymbolExists.c"
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-dk37bk\CheckSymbolExists.c(2,10): fatal  error C1083: 无法打开包括文件: “unistd.h”: No such file or directory [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-dk37bk\cmTC_b3fdb.vcxproj]
+
+
+File CheckSymbolExists.c:
+/* */
+#include <unistd.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef sysconf
+  return ((int*)(&sysconf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-f6dv9x
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_26b63.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  src.c
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_26b63.dir\Debug\\" /Fd"cmTC_26b63.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-f6dv9x\src.c"
+D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-f6dv9x\src.c(1,10): fatal  error C1083: 无法打开包括文件: “pthread.h”: No such file or directory [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-f6dv9x\cmTC_26b63.vcxproj]
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-eet8g5
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_bc6b5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  CheckFunctionExists.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bc6b5.dir\Debug\\" /Fd"cmTC_bc6b5.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eet8g5\CheckFunctionExists.c"
+LINK : fatal error LNK1104: 无法打开文件“pthreads.lib” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-eet8g5\cmTC_bc6b5.vcxproj]
+
+
+
+Determining if the function pthread_create exists in the pthread failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-vdjj2v
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_7f04a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CheckFunctionExists.c
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7f04a.dir\Debug\\" /Fd"cmTC_7f04a.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-vdjj2v\CheckFunctionExists.c"
+LINK : fatal error LNK1104: 无法打开文件“pthread.lib” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-vdjj2v\cmTC_7f04a.vcxproj]
+
+
+
+Determining if the function shm_open exists in the rt failed with the following output:
+Change Dir: D:/study/go/src/github.com/cherryFloris/libraries/snappy/CMakeFiles/CMakeScratch/TryCompile-gathsz
+
+Run Build Command(s):D:/Download/software/VisualStudio/MSBuild/Current/Bin/amd64/MSBuild.exe cmTC_42128.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:m && MSBuild version 17.5.1+f6fdcf537 for .NET Framework
+
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32216.1 版
+  CheckFunctionExists.c
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=shm_open /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_42128.dir\Debug\\" /Fd"cmTC_42128.dir\Debug\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-gathsz\CheckFunctionExists.c"
+LINK : fatal error LNK1104: 无法打开文件“rt.lib” [D:\study\go\src\github.com\cherryFloris\libraries\snappy\CMakeFiles\CMakeScratch\TryCompile-gathsz\cmTC_42128.vcxproj]
+
+
+
